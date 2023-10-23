@@ -1,7 +1,7 @@
 @font-face {
     font-family: "socicon";
     src: url("fonts/socicon.eot");
-    src: url("fonts/socicon-1.eot") format("embedded-opentype"), url("fonts/socicon.woff") format("woff"), url("fonts/socicon.ttf") format("truetype"), url("fonts/socicon.svg") format("svg");
+    src: url("fonts/socicon.eot?#iefix") format("embedded-opentype"), url("fonts/socicon.woff") format("woff"), url("fonts/socicon.ttf") format("truetype"), url("fonts/socicon.svg#socicon") format("svg");
     font-weight: normal;
     font-style: normal;
 }
@@ -1296,11 +1296,11 @@ ul.mks_social_widget_ul .socicon-twitch:before {
 }
 
 ul.mks_social_widget_ul .socicon-twitter {
-	background: #4da7de;
+	background: #222222;
 }
 
 ul.mks_social_widget_ul .socicon-twitter:before {
-	content: "\e08d"
+	content: "\e959"
 }
 
 ul.mks_social_widget_ul .socicon-uber {
