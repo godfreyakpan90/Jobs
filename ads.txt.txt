@@ -1,1 +1,3 @@
-google.com, pub-8446424149960145, DIRECT, f08c47fec0942fa0
+google.com, pub-2699196434572674, DIRECT, f08c47fec0942fa0
+
+19390
